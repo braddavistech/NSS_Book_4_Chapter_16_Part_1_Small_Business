@@ -1,0 +1,20 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.employee {
+  margin: 30px;
+  background-color: beige;
+  text-align: center;
+  padding: 20px;
+}
+.employee__name {
+  font-weight: bold;
+  font-size: 4vw;
+}
+.employee__department {
+  font-size: 3vw;
+}
+.employee__computer {
+  font-size: 3vw;
+}
